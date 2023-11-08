@@ -1,38 +1,24 @@
 ---
-title: Hello World
+title: 我的游戏项目介绍
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+欢迎来到我的游戏项目介绍！这是我正在开发的游戏项目的简要概述。如果您对这个项目感兴趣，请继续阅读并观看下面的演示视频。
 
-### Create a new post
+## 项目简介
 
-``` bash
-$ hexo new "My New Post"
-```
+我的游戏项目是一款刺激的冒险游戏，其中包含了许多令人兴奋的关卡和挑战。玩家将在游戏中探索神秘的世界，解锁新的技能和道具，并与各种敌人战斗。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+如果您想了解更多关于游戏的详细信息，请查看我们的[游戏文档](www.baidu.com)。
 
-### Run server
+## 演示视频
 
-``` bash
-$ hexo server
-```
+以下是我们游戏项目的演示视频，展示了游戏的一些亮点：
 
-More info: [Server](https://hexo.io/docs/server.html)
+[![游戏演示视频](www.baidu.com)](www.baidu.com)
 
-### Generate static files
+如果您对游戏有兴趣，不妨观看视频以获取更直观的了解。
 
-``` bash
-$ hexo generate
-```
+## 联系我们
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+如果您有任何问题或意见，或者想要加入我们的项目，请随时在[GitHub](www.baidu.com)上联系我们。
 
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
